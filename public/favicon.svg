@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <!-- Purple rounded background box -->
+  <rect x="12" y="12" width="72" height="72" rx="16" fill="#7c3aed" />
+  <!-- Thick white checkmark -->
+  <path d="M28 50L40 62L68 34" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
